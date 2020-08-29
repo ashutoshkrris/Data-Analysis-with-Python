@@ -13,6 +13,10 @@ This is the repo I made while learning [Data Analysis with Python](https://www.z
 * English - https://www.youtube.com/watch?v=JOKJ6g3gUFE
 * Hindi - https://www.youtube.com/watch?v=UAZln5dNpfU
 
+3. [Numerical Computing with Numpy](https://jovian.ml/learn/data-analysis-with-python-zero-to-pandas/lesson/lesson-3-numerical-computing-with-numpy)
+* English - https://youtu.be/NlZXAytUeeE
+* Hindi - https://www.youtube.com/watch?v=9vuJm0Iy7cA
+
 **All the notebooks and assignments can be found in the below link :**
 * [Notebooks](https://jovian.ml/ashutoshkrris/collections/data-analysis-with-python) on jovian.ml
 * [Assignments](https://jovian.ml/ashutoshkrris/collections/assignment) on jovian.ml
