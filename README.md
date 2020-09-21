@@ -31,6 +31,11 @@ This is the repo I made while learning [Data Analysis with Python](https://www.z
 - English - https://youtu.be/bybjFBOBJlg
 - Hindi - https://youtu.be/PQjbsWmQssk
 
+6. [Exploratory Data Analysis - A Case Study](https://jovian.ml/learn/data-analysis-with-python-zero-to-pandas/lesson/lesson-6-exploratory-data-analysis-a-case-study)
+
+- English - https://youtu.be/XRKIa4k0h2E
+- Hindi -  https://youtu.be/H28y6u_vSLg
+
 **All the notebooks and assignments can be found in the below link :**
 
 - [Notebooks](https://jovian.ml/ashutoshkrris/collections/data-analysis-with-python) on jovian.ml
